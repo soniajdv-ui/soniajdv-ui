@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am SoniaWebDev 👋
 
 <!--
 **soniajdv-ui/soniajdv-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+<img width="1079" height="486" alt="portfolio github" src="https://github.com/user-attachments/assets/52fe0354-18e1-4a97-9b98-cdd624ad817f" />
